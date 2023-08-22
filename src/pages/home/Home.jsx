@@ -25,6 +25,12 @@ function Home() {
           />
         </div>
       </div>
+      <h1>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sunt
+        optio repellendus voluptatem quasi magni ex error quo officia rerum
+        perferendis amet pariatur, temporibus cupiditate vel at! Nulla, facilis
+        laudantium?
+      </h1>
     </div>
   );
 }
